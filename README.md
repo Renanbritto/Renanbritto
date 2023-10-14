@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renanbritto&label=Profile%20views&color=0e75b6&style=flat" alt="renanbritto" /> </p>
 
-<p align="left"> <a href="https://twitter.com/renan_britto.py" target="blank"><img src="https://img.shields.io/twitter/follow/renan_britto.py?logo=twitter&style=for-the-badge" alt="renan_britto.py" /></a> </p>
 
 - 🔭 I’m currently working on [Creating HTTP routes with express](https://github.com/Renanbritto/rest-api-express)
 
@@ -21,10 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/renan_britto.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="renan_britto.py" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/renan britto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renan britto" height="30" width="40" /></a>
-<a href="https://fb.com/renan britto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="renan britto" height="30" width="40" /></a>
-<a href="https://instagram.com/renan britto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="renan britto" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/renan-britto-7b3728212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renan britto" height="30" width="40" /></a>
+<a href="https://www.instagram.com/renanbritto.py/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="renan britto" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
