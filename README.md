@@ -1,8 +1,7 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif)
 <h1 align="center">Hi 👋, I'm Renan Britto</h1>
 <h3 align="center">A passionate frontend and backend developer from Brazil</h3>
-<img align="right" alt="coding" width="400" src=https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif
-
+<img align="right" alt="coding" width="400" src=https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renanbritto&label=Profile%20views&color=0e75b6&style=flat" alt="renanbritto" /> </p>
 
 
