@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif)
 <h1 align="center">Hi 👋, I'm Renan Britto</h1>
-<h3 align="center">A passionate frontend and backend developer from Brazil</h3>
+<h3 align="center">Frontend and backend developer from Brazil</h3>
 <img align="right" alt="coding" width="400" src=https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renanbritto&label=Profile%20views&color=0e75b6&style=flat" alt="renanbritto" /> </p>
 
